@@ -12,10 +12,11 @@ Please download the 'data' folder from the following link [[Data]](https://purdu
 If you find the paper useful in your work, please cite:
 
 ```
-@article{islam2023analysis,
+@inproceedings{islam2023analysis,
   title={Analysis of Climate Campaigns on Social Media using Bayesian Model Averaging},
   author={Islam, Tunazzina and Zhang, Ruqi and Goldwasser, Dan},
-  journal={arXiv preprint arXiv:2305.06174},
+  booktitle={Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society},
+  pages={15--25},
   year={2023}
 }
 
