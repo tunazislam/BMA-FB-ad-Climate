@@ -1,7 +1,7 @@
 # BMA-FB-ad-Climate
 
-This repository contains code for paper titled [ [Analysis of Climate Campaigns on Social Media
-using Bayesian Model Averaging](https://dl.acm.org/doi/10.1145/3600211.3604665) ], [AIES 2023](https://www.aies-conference.com/2023/).
+This repository contains code for the paper titled "[Analysis of Climate Campaigns on Social Media
+using Bayesian Model Averaging](https://dl.acm.org/doi/10.1145/3600211.3604665)", [AIES 2023](https://www.aies-conference.com/2023/).
 
 ## Data:
 
